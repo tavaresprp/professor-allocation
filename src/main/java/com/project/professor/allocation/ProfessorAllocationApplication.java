@@ -20,4 +20,10 @@ public class ProfessorAllocationApplication {
 
 }
 
+<<<<<<< HEAD
 //commit branch tavares
+=======
+/*
+commit branch paulo
+*/
+>>>>>>> paulo
