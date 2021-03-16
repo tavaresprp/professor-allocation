@@ -7,6 +7,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 Teste de segundo commit
 */
 
+/*
+Terceiro commit
+*/
+
 @SpringBootApplication
 public class ProfessorAllocationApplication {
 
